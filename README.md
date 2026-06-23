@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Harsh Sharma! 👋
 
-<!--
-**sharmaharsh01010-pixel/sharmaharsh01010-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 📚 MBA Business Analytics Student
+- 💼 Business Analyst Intern at Innovexis
+- 📍 Greater Noida, India
+- 📧 sharmaharsh01010@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- 📊 Power BI
+- 🐍 Python (Pandas, Matplotlib, Seaborn)
+- 🗄️ SQL (SQLite)
+- 📈 Excel
+- 📉 Tableau
+- 🌐 Streamlit
+
+---
+
+## 📊 Projects
+### 🚖 [OLA Ride Insights](https://github.com/sharmaharsh01010-pixel/OLA-RIDE-INSIGHTS)
+> End-to-end data analysis on OLA ride-sharing data using Python, SQL, Power BI & Streamlit
+
+### 📱 [PhonePe Pulse Analytics Dashboard](https://github.com/sharmaharsh01010-pixel/PHONEPE_PULSE_INSIGHTS)
+> Power BI dashboard analyzing PhonePe digital transaction trends across India
+
+---
+
+## 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-sharma-8718a5288)
+- 📧 sharmaharsh01010@gmail.com
+
+---
+
+⭐ *"Data is the new oil — and I love refining it!"* ⭐
