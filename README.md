@@ -11,10 +11,8 @@
 ## 🛠️ Skills & Tools
 - 📊 Power BI
 - 🐍 Python (Pandas, Matplotlib, Seaborn)
-- 🗄️ SQL (SQLite)
 - 📈 Excel
 - 📉 Tableau
-- 🌐 Streamlit
 
 ---
 
